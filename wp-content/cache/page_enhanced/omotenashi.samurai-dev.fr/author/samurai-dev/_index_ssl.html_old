@@ -1,0 +1,638 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR" itemscope itemtype="http://schema.org/Article">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Samurai Dev | Omotenashi</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- All in One SEO Pack 2.6.1 by Michael Torbert of Semper Fi Web Design[169,206] -->
+<meta name="robots" content="noindex,follow" />
+
+<link rel="canonical" href="https://omotenashi.samurai-dev.fr/author/samurai-dev/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Omotenashi &raquo; Flux" href="https://omotenashi.samurai-dev.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Omotenashi &raquo; Flux des commentaires" href="https://omotenashi.samurai-dev.fr/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Omotenashi &raquo; Flux des articles écrits par Samurai Dev" href="https://omotenashi.samurai-dev.fr/author/samurai-dev/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/omotenashi.samurai-dev.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://omotenashi.samurai-dev.fr/wp-includes/css/dashicons.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elusive-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/elusive.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/foundation-icons.min.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-extra/includes/menu-icons/includes/library/icon-selector/css/types/genericons.min.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/cookie-notice/css/front.min.css?ver=4.9.7' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woo-variation-swatches-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1.0.28' type='text/css' media='all' />
+<style id='woo-variation-swatches-inline-css' type='text/css'>
+
+			      .variable-item:not(.radio-variable-item){
+			      width: 30px;
+			      height: 30px;
+			      }
+			      .woo-variation-swatches-style-squared .button-variable-item{
+			      min-width: 30px;
+			      }
+			      .button-variable-item span{
+			      font-size: 16px;
+			      }
+				
+</style>
+<link rel='stylesheet' id='woo-variation-swatches-theme-override-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/woo-variation-swatches/assets/css/wvs-theme-override.min.css?ver=1.0.28' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-variation-swatches-tooltip-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/woo-variation-swatches/assets/css/frontend-tooltip.min.css?ver=1.0.28' type='text/css' media='all' />
+<link rel='stylesheet' id='tinvwl-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ti-woocommerce-wishlist/asset/css/public.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tinvwl-font-awesome-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ti-woocommerce-wishlist/asset/css/font-awesome.min.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://omotenashi.samurai-dev.fr/wp-content/uploads/oceanwp/main-style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp-child/style.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-hamburgers-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-collapse-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/third/hamburgers/types/collapse.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-wishlist-css'  href='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/css/woo/wishlist.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='slb_core-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ops-product-share-style-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-product-sharing/assets/css/style.min.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=4.9.7' type='text/css' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Désolé, ce produit n&rsquo;est pas disponible. Veuillez choisir une combinaison différente.</p>
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gadwpUAEventsData = {"options":{"event_tracking":0,"event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":0,"event_affiliates":"\/out\/","hash_tracking":0,"root_domain":"samurai-dev.fr","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":0,"ga_with_gtag":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.3.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/omotenashi.samurai-dev.fr\/wp-admin\/admin-ajax.php","hideEffect":"slide","onScroll":"no","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"omotenashi.samurai-dev.fr","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.44'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-extra//includes/widgets/js/mailchimp.min.js?ver=4.9.7'></script>
+<link rel='https://api.w.org/' href='https://omotenashi.samurai-dev.fr/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://omotenashi.samurai-dev.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://omotenashi.samurai-dev.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<meta name="generator" content="WooCommerce 3.4.2" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://omotenashi.samurai-dev.fr/wp-content/uploads/2018/04/cropped-shop-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://omotenashi.samurai-dev.fr/wp-content/uploads/2018/04/cropped-shop-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://omotenashi.samurai-dev.fr/wp-content/uploads/2018/04/cropped-shop-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://omotenashi.samurai-dev.fr/wp-content/uploads/2018/04/cropped-shop-icon-270x270.png" />
+
+<!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-120139031-1', 'auto');
+  ga('require', 'ecommerce');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			/* Hero Title */.elementor-element.hero-title .elementor-widget-container{display:inline-block}/* Footer Callout */.store-callout .icon-box-icon,.store-callout .icon-box-heading{display:table-cell;vertical-align:middle}.store-callout .icon-box-icon{height:1em;width:1em;line-height:1em}.store-callout .icon-box-icon i{color:#5b4f4f;font-size:34px;margin-right:15px}.store-callout .icon-box-heading{font-size:15px;font-weight:400;margin:0;color:#ffffff;letter-spacing:1px;text-transform:capitalize}@media screen and (max-width:767px){.store-callout .icon-box-icon{display:none}.store-callout .icon-box-heading{display:block;text-align:center}}/* Footer Borders */#footer-widgets .contact-info-widget i,#footer-widgets .oceanwp-recent-posts li,#footer-widgets .social-widget li a,#footer-widgets .woocommerce ul.product_list_widget li{border-color:rgba(255,255,255,0.2)}/* Footer Products */#footer-widgets .price del,#footer-widgets del .amount{color:#ddd}/* Footer Tags */#footer-widgets .tagcloud a{background-color:rgba(255,255,255,0.1);border-color:rgba(255,255,255,0.1)}#footer-widgets .tagcloud a:hover{background-color:rgba(255,255,255,0.2);color:#fff;border-color:rgba(255,255,255,0.2)}		</style>
+	<!-- OceanWP CSS -->
+<style type="text/css">
+.page-header{background-color:#809fbf}/* General CSS */.woocommerce-MyAccount-navigation ul li a:before,.woocommerce-checkout .woocommerce-info a,.woocommerce-checkout #payment ul.payment_methods .wc_payment_method>input[type=radio]:first-child:checked+label:before,.woocommerce-checkout #payment .payment_method_paypal .about_paypal,.woocommerce ul.products li.product .category a:hover,.woocommerce ul.products li.product .button:hover,.woocommerce ul.products li.product .product-inner .added_to_cart:hover,.product_meta .posted_in a:hover,.product_meta .tagged_as a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce .oceanwp-grid-list a.active,.woocommerce .oceanwp-grid-list a:hover,.woocommerce .oceanwp-off-canvas-filter:hover,.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover,.widget_product_categories li a:hover ~ .count,.widget_layered_nav li a:hover ~ .count,a:hover,a.light:hover,.theme-heading .text::before,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#fe5252}.woocommerce div.product div.images .open-image,.wcmenucart-details.count,.woocommerce-message a,.woocommerce-error a,.woocommerce-info a,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.owp-product-nav li a.owp-nav-link:hover,.woocommerce div.product.owp-tabs-layout-vertical .woocommerce-tabs ul.tabs li a:after,.woocommerce .widget_product_categories li.current-cat a ~ .count,.woocommerce .widget_product_categories li.current-cat a:before,.woocommerce .widget_layered_nav li.chosen a ~ .count,.woocommerce .widget_layered_nav li.chosen a:before,#owp-checkout-timeline .active .timeline-wrapper,.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count,.show-cart .wcmenucart-cart-icon .wcmenucart-count,input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i{background-color:#fe5252}.current-shop-items-dropdown{border-top-color:#fe5252}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-bottom-color:#fe5252}.wcmenucart-details.count:before{border-color:#fe5252}.woocommerce ul.products li.product .button:hover{border-color:#fe5252}.woocommerce ul.products li.product .product-inner .added_to_cart:hover{border-color:#fe5252}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-color:#fe5252}.woocommerce .oceanwp-grid-list a.active{border-color:#fe5252}.woocommerce .oceanwp-grid-list a:hover{border-color:#fe5252}.woocommerce .oceanwp-off-canvas-filter:hover{border-color:#fe5252}.owp-product-nav li a.owp-nav-link:hover{border-color:#fe5252}.widget_shopping_cart_content .buttons .button:first-child:hover{border-color:#fe5252}.widget_shopping_cart ul.cart_list li .owp-grid-wrap .owp-grid a.remove:hover{border-color:#fe5252}.widget_product_categories li a:hover ~ .count{border-color:#fe5252}.woocommerce .widget_product_categories li.current-cat a ~ .count{border-color:#fe5252}.woocommerce .widget_product_categories li.current-cat a:before{border-color:#fe5252}.widget_layered_nav li a:hover ~ .count{border-color:#fe5252}.woocommerce .widget_layered_nav li.chosen a ~ .count{border-color:#fe5252}.woocommerce .widget_layered_nav li.chosen a:before{border-color:#fe5252}#owp-checkout-timeline.arrow .active .timeline-wrapper:before{border-top-color:#fe5252;border-bottom-color:#fe5252}#owp-checkout-timeline.arrow .active .timeline-wrapper:after{border-left-color:#fe5252;border-right-color:#fe5252}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count{border-color:#fe5252}.bag-style:hover .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#fe5252}.show-cart .wcmenucart-cart-icon .wcmenucart-count{border-color:#fe5252}.show-cart .wcmenucart-cart-icon .wcmenucart-count:after{border-color:#fe5252}.widget-title{border-color:#fe5252}blockquote{border-color:#fe5252}#searchform-dropdown{border-color:#fe5252}.dropdown-menu .sub-menu{border-color:#fe5252}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#fe5252}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#fe5252}.social-widget li.oceanwp-email a:hover{border-color:#fe5252}#respond #cancel-comment-reply-link:hover{border-color:#fe5252}body .contact-info-widget.big-icons li:hover i{border-color:#fe5252}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#fe5252}.woocommerce div.product div.images .open-image:hover,.woocommerce-error a:hover,.woocommerce-info a:hover,.woocommerce-message a:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover{background-color:#22d0d6}a{color:#81d742}a:hover{color:#26d4ef}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#ffffff}.site-breadcrumbs,.background-image-page-header .site-breadcrumbs{color:#efefef}.site-breadcrumbs ul li:after{color:#efefef}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#ffffff}.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#69d61b}#scroll-top{border-radius:40px}#scroll-top:hover{background-color:#40a6dd}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.select2-container .select2-choice,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-color:#ececec}form input[type="text"]:focus,form input[type="password"]:focus,form input[type="email"]:focus,form input[type="tel"]:focus,form input[type="url"]:focus,form input[type="search"]:focus,form textarea:focus,.select2-drop-active,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-drop.select2-drop-above.select2-drop-active,.select2-container-active .select2-choice,.select2-container-active .select2-choices{border-color:#dddddd}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{color:#666666}/* Top Bar CSS */#top-bar{padding:16px 0 16px 0}#top-bar-wrap,.oceanwp-top-bar-sticky{background-color:#f9f9f9}#top-bar-wrap,#top-bar-content strong{color:#49e5a4}#top-bar-content a,#top-bar-social-alt a{color:#0fad6b}#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#1e73be}#top-bar-social li a{font-size:18px}#top-bar-social li a{padding:0 8px 0 8px}#top-bar-social li a{color:#3bb738}#top-bar-social li a:hover{color:#1e73be!important}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:100px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.after-header-content-inner >a{line-height:100px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:164px}@media (max-width:768px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:182px}}@media (max-width:480px){#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:152px}}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:78px}@media (max-width:768px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:188px}}@media (max-width:480px){#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:109px}}#site-navigation-wrap .dropdown-menu >li >a{padding:0 6px}.dropdown-menu .sub-menu{min-width:135px}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#1cb0ef}.dropdown-menu ul li a.menu-link:hover{background-color:#c4c4c4}.mobile-menu .hamburger-inner,.mobile-menu .hamburger-inner::before,.mobile-menu .hamburger-inner::after{background-color:#000000}/* Footer Widgets CSS */#footer-widgets{background-color:#322b2b}/* Footer Bottom CSS */#footer-bottom{background-color:#221d1d}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#25eadd}/* WooCommerce CSS */.wcmenucart i{font-size:16px}.wcmenucart i{top:2px}#owp-checkout-timeline .timeline-wrapper{background-color:#1e73be}#owp-checkout-timeline.arrow .timeline-wrapper:before{border-top-color:#1e73be;border-bottom-color:#1e73be}#owp-checkout-timeline.arrow .timeline-wrapper:after{border-left-color:#1e73be;border-right-color:#1e73be}#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}.woocommerce span.onsale{background-color:#3fc387}/* Social Sharing CSS */.entry-share ul li a{border-radius:4px}/* Typography CSS */body{font-family:Lato}#top-bar-content,#top-bar-social-alt{font-size:13px;letter-spacing:.6px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-weight:600;font-size:12px;letter-spacing:1px;text-transform:uppercase}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:13px;line-height:1.8}
+</style></head>
+
+<body class="archive author author-samurai-dev author-1 wp-custom-logo cookies-not-set tinvwl-theme-style woocommerce-no-js woo-variation-swatches woo-variation-swatches-theme-oceanwp-child woo-variation-swatches-theme-child-oceanwp woo-variation-swatches-style-rounded woo-variation-swatches-attribute-behavior-blur woo-variation-swatches-tooltip-enabled woo-variation-swatches-stylesheet-enabled oceanwp-theme dropdown-mobile default-breakpoint content-full-width content-max-width has-topbar has-breadcrumbs has-grid-list woo-dropdown-cat elementor-default">
+
+	
+	<div id="outer-wrap" class="site clr">
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+    <div id="top-bar-content" class="clr top-bar-right">
+
+        
+<div id="top-bar-nav" class="navigation clr">
+
+	<ul id="menu-top-menu" class="top-bar-menu dropdown-menu sf-menu"><li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://omotenashi.samurai-dev.fr/mon-compte/" class="menu-link"><i class="icon before fa fa-home" aria-hidden="true" style="font-size:1em;vertical-align:baseline;"></i><span class="menu-text">Mon compte</span></a></li><li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://omotenashi.samurai-dev.fr/contact/" class="menu-link"><i class="icon before fa fa-envelope" aria-hidden="true" style="font-size:1em;vertical-align:baseline;"></i><span class="menu-text">Nous contacter</span></a></li></ul>
+</div>
+        
+            
+    </div><!-- #top-bar-content -->
+
+
+
+<div id="top-bar-social" class="clr top-bar-left">
+
+	<ul class="clr">
+
+		<li class="oceanwp-twitter"><a href="https://twitter.com/?lang=fr" title="Twitter" target="_blank"><span class="fa fa-twitter"></span></a></li><li class="oceanwp-facebook"><a href="https://www.facebook.com/" title="Facebook" target="_blank"><span class="fa fa-facebook"></span></a></li><li class="oceanwp-pinterest"><a href="https://www.pinterest.fr/" title="Pinterest" target="_blank"><span class="fa fa-pinterest-p"></span></a></li><li class="oceanwp-instagram"><a href="https://www.instagram.com/?hl=fr" title="Instagram" target="_blank"><span class="fa fa-instagram"></span></a></li><li class="oceanwp-flickr"><a href="https://www.flickr.com/" title="Flickr" target="_blank"><span class="fa fa-flickr"></span></a></li><li class="oceanwp-rss"><a href="https://blog.feedspot.com/japanese_food_rss_feeds/" title="RSS" target="_blank"><span class="fa fa-rss"></span></a></li>
+	</ul>
+
+</div><!-- #top-bar-social -->
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="minimal-header center-logo effect-six clr" data-height="100" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+
+	
+		
+			
+			<div id="site-header-inner" class="clr container">
+
+				<div class="oceanwp-mobile-menu-icon clr woo-menu-icon mobile-left">
+			<a href="https://omotenashi.samurai-dev.fr/panier/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class="fa fa-shopping-basket"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+		</div>
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="http://schema.org/Brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://omotenashi.samurai-dev.fr/" class="custom-logo-link" rel="home" itemprop="url"><img width="170" height="81" src="https://omotenashi.samurai-dev.fr/wp-content/uploads/2018/04/cropped-logo-omotenashi-6.png" class="custom-logo" alt="Omotenashi" itemprop="logo" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+		
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-694 megamenu-li auto-mega"><a href="https://omotenashi.samurai-dev.fr/epicerie/" class="menu-link"><span class="text-wrap">Epicerie <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="megamenu col-3 sub-menu">
+	<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://omotenashi.samurai-dev.fr/epicerie/riz-japonais/" class="menu-link"><span class="text-wrap">Riz Japonais</span></a></li>	<li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://omotenashi.samurai-dev.fr/epicerie/nouilles-japonaises/" class="menu-link"><span class="text-wrap">Nouilles Japonaises</span></a></li>	<li id="menu-item-815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-815"><a href="https://omotenashi.samurai-dev.fr/epicerie/tofu/" class="menu-link"><span class="text-wrap">Tofu</span></a></li>	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="https://omotenashi.samurai-dev.fr/epicerie/curry-japonais/" class="menu-link"><span class="text-wrap">Curry Japonais</span></a></li>	<li id="menu-item-814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-814"><a href="https://omotenashi.samurai-dev.fr/epicerie/soupes/" class="menu-link"><span class="text-wrap">Soupes</span></a></li>	<li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://omotenashi.samurai-dev.fr/epicerie/epices-et-assaisonnements/" class="menu-link"><span class="text-wrap">Épices et Assaisonnements</span></a></li>	<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://omotenashi.samurai-dev.fr/epicerie/vinaigres-et-sauces/" class="menu-link"><span class="text-wrap">Vinaigres et Sauces</span></a></li>	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="https://omotenashi.samurai-dev.fr/epicerie/algues/" class="menu-link"><span class="text-wrap">Algues</span></a></li>	<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="https://omotenashi.samurai-dev.fr/epicerie/konjac/" class="menu-link"><span class="text-wrap">Konjac</span></a></li>	<li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-799"><a href="https://omotenashi.samurai-dev.fr/epicerie/farines/" class="menu-link"><span class="text-wrap">Farines</span></a></li>	<li id="menu-item-798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://omotenashi.samurai-dev.fr/epicerie/crackers/" class="menu-link"><span class="text-wrap">Crackers</span></a></li>	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="https://omotenashi.samurai-dev.fr/epicerie/patisserie/" class="menu-link"><span class="text-wrap">Pâtisserie</span></a></li></ul>
+</li><li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-710 megamenu-li auto-mega"><a href="https://omotenashi.samurai-dev.fr/boissons/" class="menu-link"><span class="text-wrap">Boissons <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="megamenu col-2 sub-menu">
+	<li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href="https://omotenashi.samurai-dev.fr/boissons/sans-alcool/" class="menu-link"><span class="text-wrap">Sans Alcool</span></a></li>	<li id="menu-item-805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805"><a href="https://omotenashi.samurai-dev.fr/boissons/avec-alcool/" class="menu-link"><span class="text-wrap">Avec Alcool</span></a></li></ul>
+</li><li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-709 megamenu-li auto-mega"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/" class="menu-link"><span class="text-wrap">Cuisine &#038; Accessoires <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="megamenu col-2 sub-menu">
+	<li id="menu-item-806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/vaisselle-japonaise/" class="menu-link"><span class="text-wrap">Vaisselle Japonaise</span></a></li>	<li id="menu-item-807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/ustensiles-de-cuisine/" class="menu-link"><span class="text-wrap">Ustensiles de Cuisine</span></a></li></ul>
+</li><li id="menu-item-708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-708 megamenu-li auto-mega"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/" class="menu-link"><span class="text-wrap">Goodies &#038; Livres <span class="nav-arrow fa fa-angle-down"></span></span></a>
+<ul class="megamenu col-2 sub-menu">
+	<li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/peluches/" class="menu-link"><span class="text-wrap">Peluches</span></a></li>	<li id="menu-item-809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/livres/" class="menu-link"><span class="text-wrap">Livres</span></a></li></ul>
+</li><li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707"><a href="https://omotenashi.samurai-dev.fr/meilleures-ventes/" class="menu-link"><span class="text-wrap">Meilleures Ventes</span></a></li><li class="woo-wishlist-link"><a href="https://omotenashi.samurai-dev.fr/liste-denvies/" class="wishlist_products_counter top_wishlist-heart top_wishlist-black wishlist-counter-with-products">
+	<span class="wishlist_products_counter_text">Liste d&#39;envies -</span>
+			<span class="wishlist_products_counter_number"></span>
+	</a>
+</li>
+			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
+				
+			<a href="https://omotenashi.samurai-dev.fr/panier/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class="fa fa-shopping-basket"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+											<div class="current-shop-items-dropdown owp-mini-cart clr">
+						<div class="current-shop-items-inner clr">
+							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>						</div>
+					</div>
+							</li>
+
+			<li class="search-toggle-li"><a href="#" class="site-search-toggle search-dropdown-toggle"><span class="icon-magnifier"></span></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr">
+	
+<form method="get" class="searchform" id="searchform" action="https://omotenashi.samurai-dev.fr/">
+	<input type="text" class="field" name="s" id="s" placeholder="Rechercher">
+	</form></div><!-- #searchform-dropdown -->
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+		
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu">
+							<div class="hamburger hamburger--collapse">
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</div>
+					</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr">
+
+	<nav class="clr" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-694"><a href="https://omotenashi.samurai-dev.fr/epicerie/">Epicerie</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://omotenashi.samurai-dev.fr/epicerie/riz-japonais/">Riz Japonais</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://omotenashi.samurai-dev.fr/epicerie/nouilles-japonaises/">Nouilles Japonaises</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-815"><a href="https://omotenashi.samurai-dev.fr/epicerie/tofu/">Tofu</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="https://omotenashi.samurai-dev.fr/epicerie/curry-japonais/">Curry Japonais</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-814"><a href="https://omotenashi.samurai-dev.fr/epicerie/soupes/">Soupes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="https://omotenashi.samurai-dev.fr/epicerie/epices-et-assaisonnements/">Épices et Assaisonnements</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://omotenashi.samurai-dev.fr/epicerie/vinaigres-et-sauces/">Vinaigres et Sauces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="https://omotenashi.samurai-dev.fr/epicerie/algues/">Algues</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a href="https://omotenashi.samurai-dev.fr/epicerie/konjac/">Konjac</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-799"><a href="https://omotenashi.samurai-dev.fr/epicerie/farines/">Farines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-798"><a href="https://omotenashi.samurai-dev.fr/epicerie/crackers/">Crackers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a href="https://omotenashi.samurai-dev.fr/epicerie/patisserie/">Pâtisserie</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-710"><a href="https://omotenashi.samurai-dev.fr/boissons/">Boissons</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804"><a href="https://omotenashi.samurai-dev.fr/boissons/sans-alcool/">Sans Alcool</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-805"><a href="https://omotenashi.samurai-dev.fr/boissons/avec-alcool/">Avec Alcool</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-709"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/">Cuisine &#038; Accessoires</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-806"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/vaisselle-japonaise/">Vaisselle Japonaise</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="https://omotenashi.samurai-dev.fr/cuisine-accessoires/ustensiles-de-cuisine/">Ustensiles de Cuisine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-708"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/">Goodies &#038; Livres</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/peluches/">Peluches</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809"><a href="https://omotenashi.samurai-dev.fr/goodies-livres/livres/">Livres</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707"><a href="https://omotenashi.samurai-dev.fr/meilleures-ventes/">Meilleures Ventes</a></li>
+<li class="woo-wishlist-link"><a href="https://omotenashi.samurai-dev.fr/liste-denvies/" class="wishlist_products_counter top_wishlist-heart top_wishlist-black wishlist-counter-with-products">
+	<span class="wishlist_products_counter_text">Liste d&#39;envies -</span>
+			<span class="wishlist_products_counter_number"></span>
+	</a>
+</li>
+			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
+				
+			<a href="https://omotenashi.samurai-dev.fr/panier/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class="fa fa-shopping-basket"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+											<div class="current-shop-items-dropdown owp-mini-cart clr">
+						<div class="current-shop-items-inner clr">
+							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>						</div>
+					</div>
+							</li>
+
+			<li class="search-toggle-li"><a href="#" class="site-search-toggle search-dropdown-toggle"><span class="icon-magnifier"></span></a></li></ul><ul id="menu-top-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://omotenashi.samurai-dev.fr/mon-compte/"><i class="icon before fa fa-home" aria-hidden="true" style="font-size:1em;vertical-align:baseline;"></i><span class="menu-text">Mon compte</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://omotenashi.samurai-dev.fr/contact/"><i class="icon before fa fa-envelope" aria-hidden="true" style="font-size:1em;vertical-align:baseline;"></i><span class="menu-text">Nous contacter</span></a></li>
+</ul>
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://omotenashi.samurai-dev.fr/" class="mobile-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Rechercher" />
+		<button type="submit" class="searchform-submit">
+			<i class="icon icon-magnifier"></i>
+		</button>
+			</form>
+</div><!-- .mobile-menu-search -->
+	</nav>
+
+</div>
+			
+		
+				
+	
+</header><!-- #site-header -->
+
+
+						
+			<main id="main" class="site-main clr" >
+
+				
+
+<header class="page-header">
+
+	
+	<div class="container clr page-header-inner">
+
+		
+			<h1 class="page-header-title clr" itemprop="headline">Auteur : <span class="vcard">Samurai Dev</span></h1>
+
+			
+	<div class="clr page-subheading">
+		Cet auteur a écrit 1 articles	</div><!-- .page-subheading -->
+
+
+		
+		<nav role="navigation" aria-label="Fil d’Ariane" class="site-breadcrumbs clr" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li class="trail-item trail-begin" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://omotenashi.samurai-dev.fr" rel="home"><span itemprop="name"><span class="icon-home"></span><span style="display: none;">Accueil</span></span></a><meta content="1" itemprop="position" /></li><li class="trail-item trail-end" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name">Samurai Dev</span><meta content="2" itemprop="position" /></li></ul></nav>
+	</div><!-- .page-header-inner -->
+
+	
+	
+</header><!-- .page-header -->
+
+
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+										<div id="blog-entries" class="entries clr">
+
+							
+							
+								
+								
+	<article id="post-1" class="blog-entry clr no-featured-image large-entry col-1 post-1 post type-post status-publish format-standard hentry category-non-classe entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails circle-sale">
+
+		<div class="blog-entry-inner clr">
+
+			
+
+<header class="blog-entry-header clr">
+	<h2 class="blog-entry-title entry-title">
+		<a href="https://omotenashi.samurai-dev.fr/1/" title="Bonjour tout le monde !" rel="bookmark">Bonjour tout le monde !</a>
+	</h2><!-- .blog-entry-title -->
+</header><!-- .blog-entry-header -->
+
+
+
+<ul class="meta clr">
+
+	
+					<li class="meta-author" itemprop="name"><i class="icon-user"></i><a href="https://omotenashi.samurai-dev.fr/author/samurai-dev/" title="Articles par Samurai Dev" rel="author"  itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">Samurai Dev</a></li>
+		
+		
+		
+		
+	
+		
+					<li class="meta-date" itemprop="datePublished" pubdate><i class="icon-clock"></i>9 avril 2018</li>
+		
+		
+		
+	
+		
+		
+					<li class="meta-cat"><i class="icon-folder"></i><a href="https://omotenashi.samurai-dev.fr/category/non-classe/" rel="category tag">Non classé</a></li>
+		
+		
+	
+		
+		
+		
+					<li class="meta-comments"><i class="icon-bubble"></i><a href="https://omotenashi.samurai-dev.fr/1/#comments" class="comments-link" >1 commentaire</a></li>
+		
+		
+</ul>
+
+
+
+<div class="blog-entry-summary clr" itemprop="text">
+
+    
+        <p>
+            Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous !        </p>
+
+    
+</div><!-- .blog-entry-summary -->
+
+
+
+<div class="blog-entry-readmore clr">
+    <a href="https://omotenashi.samurai-dev.fr/1/" title="Continuer la lecture">Continuer la lecture<i class="fa fa-angle-right"></i></a>
+</div><!-- .blog-entry-readmore -->
+
+
+		</div><!-- .blog-entry-inner -->
+
+	</article><!-- #post-## -->
+
+
+								
+							
+						</div><!-- #blog-entries -->
+
+						
+				
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+		
+	</div><!-- #content-wrap -->
+
+	
+
+        </main><!-- #main -->
+
+        
+        
+        
+            
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+
+    
+    <div id="footer-inner" class="clr">
+
+        
+
+<div id="footer-bottom" class="clr">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+			<div id="footer-bottom-menu" class="navigation clr">
+				<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-737"><a href="https://omotenashi.samurai-dev.fr/conditions-generales-de-vente/">CGV</a></li>
+<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="https://omotenashi.samurai-dev.fr/qui-sommes-nous/">Qui sommes-nous ?</a></li>
+<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1115"><a href="https://omotenashi.samurai-dev.fr/contact/">Contact</a></li>
+<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://omotenashi.samurai-dev.fr/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://omotenashi.samurai-dev.fr/politique-de-confidentialite/">Politique de confidentialité</a></li>
+</ul></div>
+			</div><!-- #footer-bottom-menu -->
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				© 2018 Omotenashi by <a href="https://samurai-dev.fr/" target="_blank">Samurai Dev</a>			</div><!-- #copyright -->
+
+		
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+        
+    </div><!-- #footer-inner -->
+
+    
+</footer><!-- #footer -->            
+        
+                        
+    </div><!-- #wrap -->
+
+    
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" href="#"><span class="fa fa-angle-double-up"></span></a>
+
+
+
+
+<div id="owp-qv-wrap">
+	<div class="owp-qv-container">
+		<div class="owp-qv-content-wrap">
+			<div class="owp-qv-content-inner">
+				<a href="#" class="owp-qv-close">×</a>
+				<div id="owp-qv-content" class="woocommerce single-product"></div>
+			</div>
+		</div>
+	</div>
+	<div class="owp-qv-overlay"></div>
+</div><div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><h4>Panier</h4><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/omotenashi.samurai-dev.fr\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Voir le panier","cart_url":"https:\/\/omotenashi.samurai-dev.fr\/panier\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_7e5347b191c2a20524d28830b013c768","fragment_name":"wc_fragments_7e5347b191c2a20524d28830b013c768"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1.0.28'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"Produit d\u00e9j\u00e0 dans la liste d'envies","simple_flow":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/ti-woocommerce-wishlist/asset/js/public.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"drop_down","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"icon","verticalHeaderTarget":"icon","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/omotenashi.samurai-dev.fr\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/omotenashi.samurai-dev.fr\/panier\/","cart_redirect_after_add":"no","floating_bar":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/uploads/oceanwp/main-scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js/third/woo/woo-cat-widget.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js/third/woo/woo-quick-view.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/wp-util.min.js?ver=4.9.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"D\u00e9sol\u00e9, aucun produit ne r\u00e9pond \u00e0 vos crit\u00e8res. Veuillez choisir une combinaison diff\u00e9rente.","i18n_make_a_selection_text":"Veuillez s\u00e9lectionner certaines options du produit avant d\u2019ajouter ce produit \u00e0 votre panier.","i18n_unavailable_text":"D\u00e9sol\u00e9, ce produit n\u2019est pas disponible. Veuillez choisir une combinaison diff\u00e9rente."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.1'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js/third/woo/woo-mini-cart.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-product-sharing/assets/js/social.min.js?ver=1.0.7'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/plugins/ocean-social-sharing/assets/js/social.min.js?ver=1.0.12'></script>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://omotenashi.samurai-dev.fr/wp-content/themes/oceanwp/assets/js//third/html5.min.js?ver=1.0'></script>
+<![endif]-->
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+			<div id="cookie-notice" role="banner" class="cn-bottom wp-default" style="color: #fff; background-color: #40d1d1;"><div class="cookie-notice-container"><span id="cn-notice-text">En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de Cookies pour le bon fonctionnement de notre plateforme de vente en ligne et réaliser des statistiques de visites.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button wp-default button">J'accepte</a><a href="https://omotenashi.samurai-dev.fr/politique-de-confidentialite/" target="_blank" id="cn-more-info" class="cn-more-info cn-button wp-default button">En savoir plus</a>
+				</div>
+				
+			</div></body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Mise en cache objet de 130/140 objets utilisant disk
+Page Caching using disk: enhanced 
+Mise en cache de base de données 5/13 requêtes dans 0.024 secondes utilisant disk
+
+Served from: omotenashi.samurai-dev.fr @ 2018-07-07 18:52:29 by W3 Total Cache
+-->

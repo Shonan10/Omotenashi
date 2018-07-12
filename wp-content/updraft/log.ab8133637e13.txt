@@ -1,0 +1,598 @@
+0000.004 (0) Opened log file at time: Mon, 09 Apr 2018 19:50:05 +0000 on https://omotenashi.samurai-dev.fr
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.9.5 PHP: 7.1.15 (cgi-fcgi, Linux mutu0178 4.1.48-vs2.3.8.6-beng #1 SMP Sun Jan 14 14:33:48 GMT 2018 x86_64) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 58.4M | 60M) multisite: N openssl: OpenSSL 1.1.0f  25 May 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 7760356.3 MB
+0000.014 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.015 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.025 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1523190912, seconds_ago=112493)
+0000.028 (0) Set semaphore last lock (fd) time to 2018-04-09 19:50:05
+0000.029 (0) Semaphore lock (fd) complete
+0000.039 (0) Backup run: resumption=0, nonce=ab8133637e13, begun at=1523303405 (0s ago), job type=backup
+0000.041 (0) Scheduling a resumption (1) after 300 seconds (1523303705) in case this run gets aborted
+0000.056 (0) Checking if we have a zip executable available
+0000.058 (0) Creation of backups of directories: beginning
+0000.065 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0012.056 (0) Total entities for the zip file: 2312 directories, 13492 files (0 skipped as non-modified), 162.6 MB
+0012.068 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0012.348 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 100 files added (on-disk size: 425.3 KB)
+0012.416 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 200 files added (on-disk size: 425.3 KB)
+0012.492 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 300 files added (on-disk size: 425.3 KB)
+0012.557 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 400 files added (on-disk size: 425.3 KB)
+0012.622 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 500 files added (on-disk size: 425.3 KB)
+0012.625 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 13492 files batched, 501 (502) added so far); re-opening (prior size: 425.3 KB)
+0014.263 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 600 files added (on-disk size: 3171 KB)
+0014.325 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 700 files added (on-disk size: 3171 KB)
+0014.381 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 800 files added (on-disk size: 3171 KB)
+0014.429 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 900 files added (on-disk size: 3171 KB)
+0014.497 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1000 files added (on-disk size: 3171 KB)
+0014.501 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 13492 files batched, 501 (1003) added so far); re-opening (prior size: 3171 KB)
+0015.576 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1100 files added (on-disk size: 4480 KB)
+0015.640 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1200 files added (on-disk size: 4480 KB)
+0015.698 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1300 files added (on-disk size: 4480 KB)
+0015.746 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1400 files added (on-disk size: 4480 KB)
+0015.820 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1500 files added (on-disk size: 4480 KB)
+0015.824 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 MB, 13492 files batched, 501 (1504) added so far); re-opening (prior size: 4480 KB)
+0016.997 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1600 files added (on-disk size: 5722.5 KB)
+0017.061 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1700 files added (on-disk size: 5722.5 KB)
+0017.125 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1800 files added (on-disk size: 5722.5 KB)
+0017.188 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1900 files added (on-disk size: 5722.5 KB)
+0017.264 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2000 files added (on-disk size: 5722.5 KB)
+0017.268 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.5 MB, 13492 files batched, 501 (2005) added so far); re-opening (prior size: 5722.5 KB)
+0019.173 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2100 files added (on-disk size: 10601.5 KB)
+0019.248 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2200 files added (on-disk size: 10601.5 KB)
+0019.333 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2300 files added (on-disk size: 10601.5 KB)
+0019.413 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2400 files added (on-disk size: 10601.5 KB)
+0019.492 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2500 files added (on-disk size: 10601.5 KB)
+0019.497 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 13492 files batched, 501 (2506) added so far); re-opening (prior size: 10601.5 KB)
+0021.332 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2600 files added (on-disk size: 12799 KB)
+0021.398 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2700 files added (on-disk size: 12799 KB)
+0021.470 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2800 files added (on-disk size: 12799 KB)
+0021.547 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2900 files added (on-disk size: 12799 KB)
+0021.620 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3000 files added (on-disk size: 12799 KB)
+0021.627 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 13492 files batched, 501 (3007) added so far); re-opening (prior size: 12799 KB)
+0023.216 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3100 files added (on-disk size: 14083.8 KB)
+0023.312 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3200 files added (on-disk size: 14083.8 KB)
+0023.404 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3300 files added (on-disk size: 14083.8 KB)
+0023.498 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3400 files added (on-disk size: 14083.8 KB)
+0023.599 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3500 files added (on-disk size: 14083.8 KB)
+0023.608 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.7 MB, 13492 files batched, 501 (3508) added so far); re-opening (prior size: 14083.8 KB)
+0025.612 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3600 files added (on-disk size: 17915.9 KB)
+0025.734 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3700 files added (on-disk size: 17915.9 KB)
+0025.845 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3800 files added (on-disk size: 17915.9 KB)
+0025.950 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3900 files added (on-disk size: 17915.9 KB)
+0026.061 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4000 files added (on-disk size: 17915.9 KB)
+0026.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 MB, 13492 files batched, 501 (4009) added so far); re-opening (prior size: 17915.9 KB)
+0027.540 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4100 files added (on-disk size: 18994.2 KB)
+0027.645 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4200 files added (on-disk size: 18994.2 KB)
+0027.766 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4300 files added (on-disk size: 18994.2 KB)
+0027.883 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4400 files added (on-disk size: 18994.2 KB)
+0027.991 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4500 files added (on-disk size: 18994.2 KB)
+0028.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.5 MB, 13492 files batched, 501 (4510) added so far); re-opening (prior size: 18994.2 KB)
+0029.485 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4600 files added (on-disk size: 19515.7 KB)
+0029.592 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4700 files added (on-disk size: 19515.7 KB)
+0029.693 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4800 files added (on-disk size: 19515.7 KB)
+0029.788 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4900 files added (on-disk size: 19515.7 KB)
+0029.866 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5000 files added (on-disk size: 19515.7 KB)
+0029.876 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 13492 files batched, 501 (5011) added so far); re-opening (prior size: 19515.7 KB)
+0031.500 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5100 files added (on-disk size: 20795.3 KB)
+0031.597 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5200 files added (on-disk size: 20795.3 KB)
+0031.696 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5300 files added (on-disk size: 20795.3 KB)
+0031.786 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5400 files added (on-disk size: 20795.3 KB)
+0031.882 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5500 files added (on-disk size: 20795.3 KB)
+0031.894 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 13492 files batched, 501 (5512) added so far); re-opening (prior size: 20795.3 KB)
+0033.495 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5600 files added (on-disk size: 22056.9 KB)
+0033.589 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5700 files added (on-disk size: 22056.9 KB)
+0033.674 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5800 files added (on-disk size: 22056.9 KB)
+0033.768 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5900 files added (on-disk size: 22056.9 KB)
+0033.852 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6000 files added (on-disk size: 22056.9 KB)
+0033.864 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 13492 files batched, 501 (6013) added so far); re-opening (prior size: 22056.9 KB)
+0036.444 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6100 files added (on-disk size: 25158.9 KB)
+0036.582 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6200 files added (on-disk size: 25158.9 KB)
+0036.679 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6300 files added (on-disk size: 25158.9 KB)
+0036.774 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6400 files added (on-disk size: 25158.9 KB)
+0036.859 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6500 files added (on-disk size: 25158.9 KB)
+0036.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.5 MB, 13492 files batched, 501 (6514) added so far); re-opening (prior size: 25158.9 KB)
+0039.117 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6600 files added (on-disk size: 27798.1 KB)
+0039.216 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6700 files added (on-disk size: 27798.1 KB)
+0039.330 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6800 files added (on-disk size: 27798.1 KB)
+0039.424 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6900 files added (on-disk size: 27798.1 KB)
+0039.515 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7000 files added (on-disk size: 27798.1 KB)
+0039.530 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 13492 files batched, 501 (7015) added so far); re-opening (prior size: 27798.1 KB)
+0041.323 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7100 files added (on-disk size: 28970 KB)
+0041.414 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7200 files added (on-disk size: 28970 KB)
+0041.488 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7300 files added (on-disk size: 28970 KB)
+0041.563 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7400 files added (on-disk size: 28970 KB)
+0041.660 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7500 files added (on-disk size: 28970 KB)
+0041.682 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.2 MB, 13492 files batched, 501 (7516) added so far); re-opening (prior size: 28970 KB)
+0044.171 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7600 files added (on-disk size: 31701.3 KB)
+0044.262 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7700 files added (on-disk size: 31701.3 KB)
+0044.360 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7800 files added (on-disk size: 31701.3 KB)
+0044.472 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7900 files added (on-disk size: 31701.3 KB)
+0044.575 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8000 files added (on-disk size: 31701.3 KB)
+0044.599 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.6 MB, 13492 files batched, 501 (8017) added so far); re-opening (prior size: 31701.3 KB)
+0046.959 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8100 files added (on-disk size: 34308.5 KB)
+0047.060 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8200 files added (on-disk size: 34308.5 KB)
+0047.159 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8300 files added (on-disk size: 34308.5 KB)
+0047.287 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8400 files added (on-disk size: 34308.5 KB)
+0047.412 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8500 files added (on-disk size: 34308.5 KB)
+0047.433 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.9 MB, 13492 files batched, 501 (8518) added so far); re-opening (prior size: 34308.5 KB)
+0050.326 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8600 files added (on-disk size: 36782.7 KB)
+0050.432 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8700 files added (on-disk size: 36782.7 KB)
+0050.543 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8800 files added (on-disk size: 36782.7 KB)
+0050.653 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8900 files added (on-disk size: 36782.7 KB)
+0050.760 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9000 files added (on-disk size: 36782.7 KB)
+0050.779 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.3 MB, 13492 files batched, 501 (9019) added so far); re-opening (prior size: 36782.7 KB)
+0052.967 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9100 files added (on-disk size: 38327.3 KB)
+0053.076 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9200 files added (on-disk size: 38327.3 KB)
+0053.190 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9300 files added (on-disk size: 38327.3 KB)
+0053.305 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9400 files added (on-disk size: 38327.3 KB)
+0053.431 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9500 files added (on-disk size: 38327.3 KB)
+0053.455 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 13492 files batched, 501 (9520) added so far); re-opening (prior size: 38327.3 KB)
+0055.636 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9600 files added (on-disk size: 38844.2 KB)
+0055.897 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9700 files added (on-disk size: 38844.2 KB)
+0056.163 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9800 files added (on-disk size: 38844.2 KB)
+0056.440 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9900 files added (on-disk size: 38844.2 KB)
+0056.661 (0) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10000 files added (on-disk size: 38844.2 KB)
+0056.704 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 13492 files batched, 501 (10021) added so far); re-opening (prior size: 38844.2 KB)
+0523.525 (1) Opened log file at time: Mon, 09 Apr 2018 19:58:49 +0000 on https://omotenashi.samurai-dev.fr
+0523.527 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.9.5 PHP: 7.1.15 (cgi-fcgi, Linux mutu0317 4.1.48-vs2.3.8.6-beng #1 SMP Sun Jan 14 14:33:48 GMT 2018 x86_64) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 196M (used: 53.3M | 56M) multisite: N openssl: OpenSSL 1.1.0f  25 May 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0523.528 (1) Free space on disk containing Updraft's temporary directory: 7759867.6 MB
+0523.531 (1) Backup run: resumption=1, nonce=ab8133637e13, begun at=1523303405 (524s ago), job type=backup, previous check-in=55.4s
+0523.533 (1) Scheduling a resumption (2) after 300 seconds (1523304229) in case this run gets aborted
+0523.556 (1) Checking if we have a zip executable available
+0523.558 (1) Creation of backups of directories: had begun; will resume
+0523.568 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0523.578 (1) File exists (/home/users3/y/ydn4019/www/omotenashi/wp-content/updraft/backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp), but was apparently not modified within the last 30 seconds, so we assume that any previous run has now terminated (time_mod=1523303462, time_now=1523303929, diff=467)
+0523.670 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: Zip file already exists, with 11832 files
+0541.555 (1) Total entities for the zip file: 2312 directories, 13492 files (0 skipped as non-modified), 162.7 MB
+0541.685 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 100 files added (on-disk size: 38844.2 KB)
+0541.735 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 200 files added (on-disk size: 38844.2 KB)
+0541.786 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 300 files added (on-disk size: 38844.2 KB)
+0541.841 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 400 files added (on-disk size: 38844.2 KB)
+0541.896 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 500 files added (on-disk size: 38844.2 KB)
+0541.951 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 600 files added (on-disk size: 38844.2 KB)
+0542.005 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 700 files added (on-disk size: 38844.2 KB)
+0542.060 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 800 files added (on-disk size: 38844.2 KB)
+0542.112 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 900 files added (on-disk size: 38844.2 KB)
+0542.165 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1000 files added (on-disk size: 38844.2 KB)
+0542.213 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1100 files added (on-disk size: 38844.2 KB)
+0542.266 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1200 files added (on-disk size: 38844.2 KB)
+0542.320 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1300 files added (on-disk size: 38844.2 KB)
+0542.376 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1400 files added (on-disk size: 38844.2 KB)
+0542.428 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1500 files added (on-disk size: 38844.2 KB)
+0542.462 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1600 files added (on-disk size: 38844.2 KB)
+0542.499 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1700 files added (on-disk size: 38844.2 KB)
+0542.536 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1800 files added (on-disk size: 38844.2 KB)
+0542.579 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 1900 files added (on-disk size: 38844.2 KB)
+0542.627 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2000 files added (on-disk size: 38844.2 KB)
+0542.692 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2100 files added (on-disk size: 38844.2 KB)
+0542.733 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2200 files added (on-disk size: 38844.2 KB)
+0542.776 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2300 files added (on-disk size: 38844.2 KB)
+0542.825 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2400 files added (on-disk size: 38844.2 KB)
+0542.853 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2500 files added (on-disk size: 38844.2 KB)
+0542.895 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2600 files added (on-disk size: 38844.2 KB)
+0542.922 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2700 files added (on-disk size: 38844.2 KB)
+0542.967 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2800 files added (on-disk size: 38844.2 KB)
+0543.051 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 2900 files added (on-disk size: 38844.2 KB)
+0543.102 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3000 files added (on-disk size: 38844.2 KB)
+0543.169 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3100 files added (on-disk size: 38844.2 KB)
+0543.275 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3200 files added (on-disk size: 38844.2 KB)
+0543.348 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3300 files added (on-disk size: 38844.2 KB)
+0543.417 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3400 files added (on-disk size: 38844.2 KB)
+0543.493 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3500 files added (on-disk size: 38844.2 KB)
+0543.565 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3600 files added (on-disk size: 38844.2 KB)
+0543.644 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3700 files added (on-disk size: 38844.2 KB)
+0543.735 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3800 files added (on-disk size: 38844.2 KB)
+0543.823 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 3900 files added (on-disk size: 38844.2 KB)
+0543.908 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4000 files added (on-disk size: 38844.2 KB)
+0544.004 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4100 files added (on-disk size: 38844.2 KB)
+0544.092 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4200 files added (on-disk size: 38844.2 KB)
+0544.185 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4300 files added (on-disk size: 38844.2 KB)
+0544.278 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4400 files added (on-disk size: 38844.2 KB)
+0544.359 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4500 files added (on-disk size: 38844.2 KB)
+0544.475 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4600 files added (on-disk size: 38844.2 KB)
+0544.555 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4700 files added (on-disk size: 38844.2 KB)
+0544.641 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4800 files added (on-disk size: 38844.2 KB)
+0544.706 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 4900 files added (on-disk size: 38844.2 KB)
+0544.762 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5000 files added (on-disk size: 38844.2 KB)
+0544.813 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5100 files added (on-disk size: 38844.2 KB)
+0544.876 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5200 files added (on-disk size: 38844.2 KB)
+0544.939 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5300 files added (on-disk size: 38844.2 KB)
+0545.024 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5400 files added (on-disk size: 38844.2 KB)
+0545.096 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5500 files added (on-disk size: 38844.2 KB)
+0545.158 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5600 files added (on-disk size: 38844.2 KB)
+0545.235 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5700 files added (on-disk size: 38844.2 KB)
+0545.301 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5800 files added (on-disk size: 38844.2 KB)
+0545.369 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 5900 files added (on-disk size: 38844.2 KB)
+0545.426 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6000 files added (on-disk size: 38844.2 KB)
+0545.495 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6100 files added (on-disk size: 38844.2 KB)
+0545.599 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6200 files added (on-disk size: 38844.2 KB)
+0545.688 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6300 files added (on-disk size: 38844.2 KB)
+0545.758 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6400 files added (on-disk size: 38844.2 KB)
+0545.840 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6500 files added (on-disk size: 38844.2 KB)
+0545.943 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6600 files added (on-disk size: 38844.2 KB)
+0546.059 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6700 files added (on-disk size: 38844.2 KB)
+0546.151 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6800 files added (on-disk size: 38844.2 KB)
+0546.248 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 6900 files added (on-disk size: 38844.2 KB)
+0546.343 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7000 files added (on-disk size: 38844.2 KB)
+0546.425 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7100 files added (on-disk size: 38844.2 KB)
+0546.492 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7200 files added (on-disk size: 38844.2 KB)
+0546.559 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7300 files added (on-disk size: 38844.2 KB)
+0546.618 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7400 files added (on-disk size: 38844.2 KB)
+0546.694 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7500 files added (on-disk size: 38844.2 KB)
+0546.799 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7600 files added (on-disk size: 38844.2 KB)
+0546.874 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7700 files added (on-disk size: 38844.2 KB)
+0546.942 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7800 files added (on-disk size: 38844.2 KB)
+0547.020 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 7900 files added (on-disk size: 38844.2 KB)
+0547.105 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8000 files added (on-disk size: 38844.2 KB)
+0547.178 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8100 files added (on-disk size: 38844.2 KB)
+0547.252 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8200 files added (on-disk size: 38844.2 KB)
+0547.353 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8300 files added (on-disk size: 38844.2 KB)
+0547.456 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8400 files added (on-disk size: 38844.2 KB)
+0547.551 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8500 files added (on-disk size: 38844.2 KB)
+0547.660 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8600 files added (on-disk size: 38844.2 KB)
+0547.736 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8700 files added (on-disk size: 38844.2 KB)
+0547.875 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8800 files added (on-disk size: 38844.2 KB)
+0547.988 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 8900 files added (on-disk size: 38844.2 KB)
+0548.091 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9000 files added (on-disk size: 38844.2 KB)
+0548.166 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9100 files added (on-disk size: 38844.2 KB)
+0548.229 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9200 files added (on-disk size: 38844.2 KB)
+0548.343 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9300 files added (on-disk size: 38844.2 KB)
+0548.459 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9400 files added (on-disk size: 38844.2 KB)
+0548.566 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9500 files added (on-disk size: 38844.2 KB)
+0548.593 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 69 (69) files added so far); re-opening (prior size: 38844.2 KB)
+0550.239 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9600 files added (on-disk size: 38862.6 KB)
+0550.444 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9700 files added (on-disk size: 38862.6 KB)
+0550.586 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9800 files added (on-disk size: 38862.6 KB)
+0550.711 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 9900 files added (on-disk size: 38862.6 KB)
+0550.878 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10000 files added (on-disk size: 38862.6 KB)
+0550.907 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 13492 files batched, 501 (570) added so far); re-opening (prior size: 38862.6 KB)
+0553.524 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10100 files added (on-disk size: 39502 KB)
+0553.682 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10200 files added (on-disk size: 39502 KB)
+0553.842 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10300 files added (on-disk size: 39502 KB)
+0554.019 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10400 files added (on-disk size: 39502 KB)
+0554.211 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10500 files added (on-disk size: 39502 KB)
+0554.245 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.2 MB, 13492 files batched, 501 (1071) added so far); re-opening (prior size: 39502 KB)
+0559.078 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10600 files added (on-disk size: 45257.2 KB)
+0559.225 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10700 files added (on-disk size: 45257.2 KB)
+0559.396 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10800 files added (on-disk size: 45257.2 KB)
+0559.567 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 10900 files added (on-disk size: 45257.2 KB)
+0559.770 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11000 files added (on-disk size: 45257.2 KB)
+0559.831 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 13492 files batched, 501 (1572) added so far); re-opening (prior size: 45257.2 KB)
+0563.031 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11100 files added (on-disk size: 45919.5 KB)
+0563.227 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11200 files added (on-disk size: 45919.5 KB)
+0563.389 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11300 files added (on-disk size: 45919.5 KB)
+0563.551 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11400 files added (on-disk size: 45919.5 KB)
+0563.721 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11500 files added (on-disk size: 45919.5 KB)
+0563.762 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 MB, 13492 files batched, 501 (2073) added so far); re-opening (prior size: 45919.5 KB)
+0567.231 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11600 files added (on-disk size: 47739.7 KB)
+0567.425 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11700 files added (on-disk size: 47739.7 KB)
+0567.611 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11800 files added (on-disk size: 47739.7 KB)
+0567.758 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 11900 files added (on-disk size: 47739.7 KB)
+0567.870 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12000 files added (on-disk size: 47739.7 KB)
+0567.907 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 13492 files batched, 501 (2574) added so far); re-opening (prior size: 47739.7 KB)
+0571.014 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12100 files added (on-disk size: 50030.2 KB)
+0571.148 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12200 files added (on-disk size: 50030.2 KB)
+0571.295 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12300 files added (on-disk size: 50030.2 KB)
+0571.459 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12400 files added (on-disk size: 50030.2 KB)
+0571.633 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12500 files added (on-disk size: 50030.2 KB)
+0571.673 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.1 MB, 13492 files batched, 501 (3075) added so far); re-opening (prior size: 50030.2 KB)
+0575.510 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12600 files added (on-disk size: 52124.5 KB)
+0575.625 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12700 files added (on-disk size: 52124.5 KB)
+0575.764 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12800 files added (on-disk size: 52124.5 KB)
+0575.861 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 12900 files added (on-disk size: 52124.5 KB)
+0575.970 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 13000 files added (on-disk size: 52124.5 KB)
+0575.999 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 13492 files batched, 501 (3576) added so far); re-opening (prior size: 52124.5 KB)
+0578.202 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 13100 files added (on-disk size: 53983.2 KB)
+0578.318 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 13200 files added (on-disk size: 53983.2 KB)
+0578.441 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 13300 files added (on-disk size: 53983.2 KB)
+0578.564 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp: 13400 files added (on-disk size: 53983.2 KB)
+0584.690 (1) Created plugins zip (0) - 60956.2 KB in 61.1 s (997.5 KB/s) (sha1: a83e809d87f156a3281d46e622800b7c50431556, sha256: dc7e337fac71708e076d2a13b58a3e09aeba579e0a9beb776c512910b2da6b6b)
+0584.693 (1) Deleting old temporary file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip.tmp.jvn2Hz
+0584.711 (1) Beginning creation of dump of themes (split every: 400 MB)
+0585.179 (1) Total entities for the zip file: 126 directories, 680 files (0 skipped as non-modified), 12.8 MB
+0585.220 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0585.261 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0585.304 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0585.347 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0585.390 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0585.392 (1) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 680 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0586.841 (1) Zip: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip.tmp: 600 files added (on-disk size: 2450.3 KB)
+0587.669 (1) Created themes zip (0) - 5190.5 KB in 3 s (1758.5 KB/s) (sha1: 94896529c5484711bb3a00ead27ddd9de4619ba0, sha256: ef9906872d7f7d0cd9e2b6bc0080292a1bfa60f0c3e2f6e1335fe99e98f37622)
+0587.675 (1) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0587.676 (1) Looking for candidates to back up in: /home/users3/y/ydn4019/www/omotenashi/wp-content/uploads
+0587.677 (1) finding files: elementor: adding to list (1)
+0587.678 (1) finding files: woocommerce_uploads: adding to list (2)
+0587.679 (1) finding files: wc-logs: adding to list (3)
+0587.680 (1) finding files: 2018: adding to list (4)
+0587.680 (1) Beginning creation of dump of uploads (split every: 400 MB)
+0587.699 (1) Total entities for the zip file: 6 directories, 4 files (0 skipped as non-modified), 0 MB
+0587.725 (1) Created uploads zip (0) - 1.3 KB in 0 s (32.4 KB/s) (sha1: 59cf9678a57581e44e00f21d8cefb44307474b55, sha256: 5d89de719cd1c57e51487b309d6febc23ed569abc416e82ef4c21a916c8f715d)
+0587.731 (1) Beginning backup of other directories found in the content directory (index: 0)
+0587.732 (1) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0587.732 (1) Looking for candidates to back up in: /home/users3/y/ydn4019/www/omotenashi/wp-content
+0587.733 (1) finding files: backupwordpress-a5573bc7c9-backups: skipping: excluded by options (glob)
+0587.734 (1) finding files: backupwordpress-a5573bc7c9-backups: skipping: excluded by options (glob)
+0587.734 (1) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0587.735 (1) finding files: index.php: adding to list (1)
+0587.735 (1) finding files: upgrade: skipping: excluded by options
+0587.736 (1) finding files: languages: adding to list (2)
+0587.737 (1) finding files: uploads: skipping: this is the uploads directory
+0587.737 (1) finding files: themes: skipping: this is the themes directory
+0587.738 (1) finding files: updraft: skipping: this is the updraft directory
+0587.739 (1) finding files: plugins: skipping: this is the plugins directory
+0587.796 (1) Total entities for the zip file: 3 directories, 73 files (0 skipped as non-modified), 7.3 MB
+0588.874 (1) Created others zip (0) - 2047.4 KB in 1.1 s (1813.5 KB/s) (sha1: a295afe11c3334bdb943e682059c1e1aaaedb061, sha256: 00b6eb7414b43f64c174538805c77d0eeeb03edfd984a74333c218270ee13203)
+0588.883 (1) Saving backup status to database (elements: 8)
+0588.893 (1) Resuming creation of database dump (WordPress DB)
+0588.907 (1) Table oei_options: Total expected rows (approximate): 448
+0588.961 (1) Table oei_options: Total rows added: 453 in 0.05 seconds
+0588.966 (1) Table oei_options: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_options.table.gz - 180.6 KB)
+0588.975 (1) Table oei_users: Total expected rows (approximate): 0
+0588.979 (1) Table oei_users: Total rows added: 1 in 0.00 seconds
+0588.981 (1) Table oei_users: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_users.table.gz - 0.6 KB)
+0588.989 (1) Table oei_usermeta: Total expected rows (approximate): 26
+0588.992 (1) Table oei_usermeta: Total rows added: 26 in 0.00 seconds
+0588.995 (1) Table oei_usermeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_usermeta.table.gz - 1.4 KB)
+0589.003 (1) Table oei_commentmeta: Total expected rows (approximate): 0
+0589.006 (1) Table oei_commentmeta: Total rows added: 0 in 0.00 seconds
+0589.009 (1) Table oei_commentmeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_commentmeta.table.gz - 0.4 KB)
+0589.017 (1) Table oei_comments: Total expected rows (approximate): 0
+0589.021 (1) Table oei_comments: Total rows added: 1 in 0.00 seconds
+0589.024 (1) Table oei_comments: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_comments.table.gz - 0.8 KB)
+0589.031 (1) Table oei_links: Total expected rows (approximate): 0
+0589.035 (1) Table oei_links: Total rows added: 0 in 0.00 seconds
+0589.037 (1) Table oei_links: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_links.table.gz - 0.4 KB)
+0589.045 (1) Table oei_postmeta: Total expected rows (approximate): 194
+0589.051 (1) Table oei_postmeta: Total rows added: 194 in 0.01 seconds
+0589.054 (1) Table oei_postmeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_postmeta.table.gz - 2 KB)
+0589.063 (1) Table oei_posts: Total expected rows (approximate): 32
+0589.070 (1) Table oei_posts: Total rows added: 32 in 0.01 seconds
+0589.073 (1) Table oei_posts: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_posts.table.gz - 4.1 KB)
+0589.080 (1) Table oei_term_relationships: Total expected rows (approximate): 9
+0589.084 (1) Table oei_term_relationships: Total rows added: 9 in 0.00 seconds
+0589.086 (1) Table oei_term_relationships: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_term_relationships.table.gz - 0.4 KB)
+0589.092 (1) Table oei_term_taxonomy: Total expected rows (approximate): 17
+0589.096 (1) Table oei_term_taxonomy: Total rows added: 17 in 0.00 seconds
+0589.098 (1) Table oei_term_taxonomy: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_term_taxonomy.table.gz - 0.5 KB)
+0589.104 (1) Table oei_termmeta: Total expected rows (approximate): 0
+0589.107 (1) Table oei_termmeta: Total rows added: 0 in 0.00 seconds
+0589.113 (1) Table oei_termmeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_termmeta.table.gz - 0.4 KB)
+0589.120 (1) Table oei_terms: Total expected rows (approximate): 15
+0589.124 (1) Table oei_terms: Total rows added: 17 in 0.00 seconds
+0589.126 (1) Table oei_terms: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_terms.table.gz - 0.6 KB)
+0589.136 (1) Table oei_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0589.139 (1) Table oei_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0589.140 (1) Table oei_woocommerce_order_itemmeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0589.147 (1) Table oei_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0589.150 (1) Table oei_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.00 seconds
+0589.152 (1) Table oei_woocommerce_payment_tokenmeta: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0589.162 (1) Table oei_duplicator_packages: Total expected rows (approximate): 0
+0589.166 (1) Table oei_duplicator_packages: Total rows added: 0 in 0.00 seconds
+0589.169 (1) Table oei_duplicator_packages: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_duplicator_packages.table.gz - 0.4 KB)
+0589.179 (1) Table oei_tinvwl_items: Total expected rows (approximate): 0
+0589.181 (1) Table oei_tinvwl_items: Total rows added: 0 in 0.00 seconds
+0589.183 (1) Table oei_tinvwl_items: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_tinvwl_items.table.gz - 0.4 KB)
+0589.191 (1) Table oei_tinvwl_lists: Total expected rows (approximate): 0
+0589.194 (1) Table oei_tinvwl_lists: Total rows added: 1 in 0.00 seconds
+0589.196 (1) Table oei_tinvwl_lists: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_tinvwl_lists.table.gz - 0.4 KB)
+0589.204 (1) Table oei_wc_download_log: Total expected rows (approximate): 0
+0589.207 (1) Table oei_wc_download_log: Total rows added: 0 in 0.00 seconds
+0589.208 (1) Table oei_wc_download_log: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_wc_download_log.table.gz - 0.4 KB)
+0589.217 (1) Table oei_wc_webhooks: Total expected rows (approximate): 0
+0589.219 (1) Table oei_wc_webhooks: Total rows added: 0 in 0.00 seconds
+0589.222 (1) Table oei_wc_webhooks: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_wc_webhooks.table.gz - 0.5 KB)
+0589.230 (1) Table oei_woocommerce_api_keys: Total expected rows (approximate): 0
+0589.233 (1) Table oei_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0589.236 (1) Table oei_woocommerce_api_keys: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_api_keys.table.gz - 0.4 KB)
+0589.243 (1) Table oei_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0589.247 (1) Table oei_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0589.252 (1) Table oei_woocommerce_attribute_taxonomies: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0589.259 (1) Table oei_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0589.263 (1) Table oei_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0589.265 (1) Table oei_woocommerce_downloadable_product_permissions: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0589.272 (1) Table oei_woocommerce_log: Total expected rows (approximate): 0
+0589.276 (1) Table oei_woocommerce_log: Total rows added: 0 in 0.00 seconds
+0589.279 (1) Table oei_woocommerce_log: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_log.table.gz - 0.4 KB)
+0589.286 (1) Table oei_woocommerce_order_items: Total expected rows (approximate): 0
+0589.289 (1) Table oei_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0589.291 (1) Table oei_woocommerce_order_items: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_order_items.table.gz - 0.3 KB)
+0589.301 (1) Table oei_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0589.304 (1) Table oei_woocommerce_payment_tokens: Total rows added: 0 in 0.00 seconds
+0589.307 (1) Table oei_woocommerce_payment_tokens: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0589.315 (1) Table oei_woocommerce_sessions: Total expected rows (approximate): 1
+0589.319 (1) Table oei_woocommerce_sessions: Total rows added: 1 in 0.00 seconds
+0589.321 (1) Table oei_woocommerce_sessions: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_sessions.table.gz - 0.8 KB)
+0589.329 (1) Table oei_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0589.332 (1) Table oei_woocommerce_shipping_zone_locations: Total rows added: 0 in 0.00 seconds
+0589.334 (1) Table oei_woocommerce_shipping_zone_locations: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0589.343 (1) Table oei_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0589.346 (1) Table oei_woocommerce_shipping_zone_methods: Total rows added: 0 in 0.00 seconds
+0589.349 (1) Table oei_woocommerce_shipping_zone_methods: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0589.357 (1) Table oei_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0589.360 (1) Table oei_woocommerce_shipping_zones: Total rows added: 0 in 0.00 seconds
+0589.361 (1) Table oei_woocommerce_shipping_zones: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0589.371 (1) Table oei_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0589.373 (1) Table oei_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0589.376 (1) Table oei_woocommerce_tax_rate_locations: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0589.383 (1) Table oei_woocommerce_tax_rates: Total expected rows (approximate): 0
+0589.385 (1) Table oei_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0589.388 (1) Table oei_woocommerce_tax_rates: finishing file (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_tax_rates.table.gz - 0.4 KB)
+0589.395 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_options.table.gz (1/31): adding to final database dump
+0589.434 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_users.table.gz (2/31): adding to final database dump
+0589.438 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_usermeta.table.gz (3/31): adding to final database dump
+0589.443 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_commentmeta.table.gz (4/31): adding to final database dump
+0589.446 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_comments.table.gz (5/31): adding to final database dump
+0589.449 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_links.table.gz (6/31): adding to final database dump
+0589.454 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_postmeta.table.gz (7/31): adding to final database dump
+0589.457 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_posts.table.gz (8/31): adding to final database dump
+0589.460 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_term_relationships.table.gz (9/31): adding to final database dump
+0589.465 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_term_taxonomy.table.gz (10/31): adding to final database dump
+0589.467 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_termmeta.table.gz (11/31): adding to final database dump
+0589.469 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_terms.table.gz (12/31): adding to final database dump
+0589.470 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_order_itemmeta.table.gz (13/31): adding to final database dump
+0589.473 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_payment_tokenmeta.table.gz (14/31): adding to final database dump
+0589.479 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_duplicator_packages.table.gz (15/31): adding to final database dump
+0589.483 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_tinvwl_items.table.gz (16/31): adding to final database dump
+0589.485 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_tinvwl_lists.table.gz (17/31): adding to final database dump
+0589.487 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_wc_download_log.table.gz (18/31): adding to final database dump
+0589.490 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_wc_webhooks.table.gz (19/31): adding to final database dump
+0589.492 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_api_keys.table.gz (20/31): adding to final database dump
+0589.494 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_attribute_taxonomies.table.gz (21/31): adding to final database dump
+0589.496 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_downloadable_product_permissions.table.gz (22/31): adding to final database dump
+0589.498 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_log.table.gz (23/31): adding to final database dump
+0589.502 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_order_items.table.gz (24/31): adding to final database dump
+0589.505 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_payment_tokens.table.gz (25/31): adding to final database dump
+0589.507 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_sessions.table.gz (26/31): adding to final database dump
+0589.509 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zone_locations.table.gz (27/31): adding to final database dump
+0589.512 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zone_methods.table.gz (28/31): adding to final database dump
+0589.513 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_shipping_zones.table.gz (29/31): adding to final database dump
+0589.516 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_tax_rate_locations.table.gz (30/31): adding to final database dump
+0589.518 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db-table-oei_woocommerce_tax_rates.table.gz (31/31): adding to final database dump
+0589.524 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz: finished writing out complete database file (168 KB)
+0589.557 (1) Total database tables backed up: 31 (backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz, size: 195855, sha256)
+0589.564 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0589.565 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0589.566 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0589.567 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip: others: This file has not yet been successfully uploaded: will queue
+0589.567 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz: db: This file has not yet been successfully uploaded: will queue
+0589.568 (1) Saving backup history. Total backup size: 66.8 MB
+0589.571 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0589.574 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0589.574 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3a7d493785bbdde5e1a974f9bc7369ca)
+0595.636 (1) Google Drive quota usage: used=9521.8 MB, total=15360 MB, available=5838.2 MB
+0595.639 (1) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0596.909 (1) Googledrive chunked upload: 1.7 % uploaded (1048576)
+0597.415 (1) Googledrive chunked upload: 3.4 % uploaded (2097152)
+0597.894 (1) Googledrive chunked upload: 5 % uploaded (3145728)
+0598.416 (1) Googledrive chunked upload: 6.7 % uploaded (4194304)
+0598.936 (1) Googledrive chunked upload: 8.4 % uploaded (5242880)
+0829.263 (2) Opened log file at time: Mon, 09 Apr 2018 20:03:55 +0000 on https://omotenashi.samurai-dev.fr
+0829.264 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.9.5 PHP: 7.1.15 (cgi-fcgi, Linux mutu0180 4.1.48-vs2.3.8.6-beng #1 SMP Sun Jan 14 14:33:48 GMT 2018 x86_64) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 196M (used: 53.3M | 56M) multisite: N openssl: OpenSSL 1.1.0f  25 May 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0829.267 (2) Free space on disk containing Updraft's temporary directory: 7759667.3 MB
+0829.269 (2) Backup run: resumption=2, nonce=ab8133637e13, begun at=1523303405 (830s ago), job type=backup, previous check-in=75.4s
+0829.272 (2) Scheduling a resumption (3) after 300 seconds (1523304535) in case this run gets aborted
+0829.290 (2) Checking if we have a zip executable available
+0829.291 (2) Creation of backups of directories: already finished
+0829.295 (2) Saving backup status to database (elements: 8)
+0829.309 (2) Database dump (WordPress DB): Creation was completed already
+0829.317 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0829.318 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0829.318 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0829.319 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip: others: This file has not yet been successfully uploaded: will queue
+0829.320 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz: db: This file has not yet been successfully uploaded: will queue
+0829.321 (2) Saving backup history. Total backup size: 66.8 MB
+0829.325 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0829.325 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0829.326 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3a7d493785bbdde5e1a974f9bc7369ca)
+0830.738 (2) Google Drive quota usage: used=9521.8 MB, total=15360 MB, available=5838.2 MB
+0830.739 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0830.923 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: upload already began; attempting to resume from byte 5242879
+0831.404 (2) Googledrive chunked upload: 10.1 % uploaded (6291456)
+0831.877 (2) Googledrive chunked upload: 11.8 % uploaded (7340032)
+0832.421 (2) Googledrive chunked upload: 13.4 % uploaded (8388608)
+0832.885 (2) Googledrive chunked upload: 15.1 % uploaded (9437184)
+0833.430 (2) Googledrive chunked upload: 16.8 % uploaded (10485760)
+0833.900 (2) Googledrive chunked upload: 18.5 % uploaded (11534336)
+0834.392 (2) Googledrive chunked upload: 20.2 % uploaded (12582912)
+0834.974 (2) Googledrive chunked upload: 21.8 % uploaded (13631488)
+0835.455 (2) Googledrive chunked upload: 23.5 % uploaded (14680064)
+0835.920 (2) Googledrive chunked upload: 25.2 % uploaded (15728640)
+0836.392 (2) Googledrive chunked upload: 26.9 % uploaded (16777216)
+0836.855 (2) Googledrive chunked upload: 28.6 % uploaded (17825792)
+0837.321 (2) Googledrive chunked upload: 30.2 % uploaded (18874368)
+0837.983 (2) Googledrive chunked upload: 31.9 % uploaded (19922944)
+0838.443 (2) Googledrive chunked upload: 33.6 % uploaded (20971520)
+0838.915 (2) Googledrive chunked upload: 35.3 % uploaded (22020096)
+0839.377 (2) Googledrive chunked upload: 37 % uploaded (23068672)
+0839.856 (2) Googledrive chunked upload: 38.6 % uploaded (24117248)
+0840.339 (2) Googledrive chunked upload: 40.3 % uploaded (25165824)
+0840.835 (2) Googledrive chunked upload: 42 % uploaded (26214400)
+0841.303 (2) Googledrive chunked upload: 43.7 % uploaded (27262976)
+0841.795 (2) Googledrive chunked upload: 45.4 % uploaded (28311552)
+0842.294 (2) Googledrive chunked upload: 47 % uploaded (29360128)
+0842.793 (2) Googledrive chunked upload: 48.7 % uploaded (30408704)
+0843.300 (2) Googledrive chunked upload: 50.4 % uploaded (31457280)
+0845.219 (2) Googledrive chunked upload: 52.1 % uploaded (32505856)
+0846.282 (2) Googledrive chunked upload: 53.8 % uploaded (33554432)
+0847.193 (2) Googledrive chunked upload: 55.4 % uploaded (34603008)
+0848.003 (2) Googledrive chunked upload: 57.1 % uploaded (35651584)
+0848.774 (2) Googledrive chunked upload: 58.8 % uploaded (36700160)
+0849.511 (2) Googledrive chunked upload: 60.5 % uploaded (37748736)
+0850.264 (2) Googledrive chunked upload: 62.2 % uploaded (38797312)
+0851.033 (2) Googledrive chunked upload: 63.8 % uploaded (39845888)
+0851.807 (2) Googledrive chunked upload: 65.5 % uploaded (40894464)
+0852.559 (2) Googledrive chunked upload: 67.2 % uploaded (41943040)
+0853.312 (2) Googledrive chunked upload: 68.9 % uploaded (42991616)
+0853.979 (2) Googledrive chunked upload: 70.6 % uploaded (44040192)
+0854.666 (2) Googledrive chunked upload: 72.2 % uploaded (45088768)
+0855.349 (2) Googledrive chunked upload: 73.9 % uploaded (46137344)
+0856.038 (2) Googledrive chunked upload: 75.6 % uploaded (47185920)
+0856.709 (2) Googledrive chunked upload: 77.3 % uploaded (48234496)
+0857.398 (2) Googledrive chunked upload: 79 % uploaded (49283072)
+0858.083 (2) Googledrive chunked upload: 80.6 % uploaded (50331648)
+0858.785 (2) Googledrive chunked upload: 82.3 % uploaded (51380224)
+0859.457 (2) Googledrive chunked upload: 84 % uploaded (52428800)
+0860.121 (2) Googledrive chunked upload: 85.7 % uploaded (53477376)
+0860.793 (2) Googledrive chunked upload: 87.4 % uploaded (54525952)
+0861.458 (2) Googledrive chunked upload: 89 % uploaded (55574528)
+0862.134 (2) Googledrive chunked upload: 90.7 % uploaded (56623104)
+0862.801 (2) Googledrive chunked upload: 92.4 % uploaded (57671680)
+0863.480 (2) Googledrive chunked upload: 94.1 % uploaded (58720256)
+0864.152 (2) Googledrive chunked upload: 95.8 % uploaded (59768832)
+0864.860 (2) Googledrive chunked upload: 97.4 % uploaded (60817408)
+0865.539 (2) Googledrive chunked upload: 99.1 % uploaded (61865984)
+0872.331 (2) Googledrive chunked upload: 100 % uploaded (61865984)
+0872.336 (2) OK: Archive backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip uploaded to Google Drive in 41.6 seconds
+0872.338 (2) Recording as successfully uploaded: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip (767d3d413eecb61ff5c2c63f73a67e2a)
+0872.362 (2) Deleting local file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-plugins.zip: OK
+0872.749 (2) Google Drive quota usage: used=9521.8 MB, total=15360 MB, available=5838.2 MB
+0872.750 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0874.026 (2) Googledrive chunked upload: 19.7 % uploaded (1048576)
+0874.694 (2) Googledrive chunked upload: 39.5 % uploaded (2097152)
+0875.374 (2) Googledrive chunked upload: 59.2 % uploaded (3145728)
+0876.302 (2) Googledrive chunked upload: 78.9 % uploaded (4194304)
+0876.928 (2) Googledrive chunked upload: 98.6 % uploaded (5242880)
+0878.269 (2) Googledrive chunked upload: 100 % uploaded (5242880)
+0878.274 (2) OK: Archive backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip uploaded to Google Drive in 5.52 seconds
+0878.277 (2) Recording as successfully uploaded: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip (f7070968cfb223935180d83e090c89f7)
+0878.283 (2) Deleting local file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-themes.zip: OK
+0878.740 (2) Google Drive quota usage: used=9581.3 MB, total=15360 MB, available=5778.7 MB
+0878.741 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0881.469 (2) Googledrive chunked upload: 100 % uploaded
+0881.475 (2) OK: Archive backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip uploaded to Google Drive in 2.73 seconds
+0881.478 (2) Recording as successfully uploaded: backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip (55780b0b1fa8e2559c540e015bfc6e0c)
+0881.483 (2) Deleting local file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-uploads.zip: OK
+0881.846 (2) Google Drive quota usage: used=9586.4 MB, total=15360 MB, available=5773.6 MB
+0881.847 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0883.150 (2) Googledrive chunked upload: 50 % uploaded (1048576)
+0884.810 (2) Googledrive chunked upload: 100 % uploaded (1048576)
+0884.814 (2) OK: Archive backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip uploaded to Google Drive in 2.96 seconds
+0884.816 (2) Recording as successfully uploaded: backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip (fe4d0a7d608118786849d47a77a971cc)
+0884.822 (2) Deleting local file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-others.zip: OK
+0885.247 (2) Google Drive quota usage: used=9586.4 MB, total=15360 MB, available=5773.6 MB
+0885.248 (2) backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz: Attempting to upload to Google Drive (into folder id: 1783lh5j5h2WVh-_WTqYls6QCoBFK9-1A)
+0892.109 (2) Googledrive chunked upload: 100 % uploaded
+0892.115 (2) OK: Archive backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz uploaded to Google Drive in 6.86 seconds
+0892.117 (2) Recording as successfully uploaded: backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz (48b1fae5941c15c9932f9c0c7701751c)
+0892.123 (2) Deleting local file: backup_2018-04-09-2150_Omotenashi_ab8133637e13-db.gz: OK
+0892.126 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0892.127 (2) Number of backup sets in history: 2; groups (db): 1
+0892.128 (2) Examining (for databases) backup set with group_id=0, nonce=ab8133637e13, datestamp=1523303405 (Apr 09 2018 19:50:05)
+0892.129 (2) This backup set is the backup set just made, so will not be deleted.
+0892.129 (2) Examining (for databases) backup set with group_id=0, nonce=b95f2b13139b, datestamp=1523190912 (Apr 08 2018 12:35:12)
+0892.129 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0892.130 (2) Number of backup sets in history: 2; groups (files): 1
+0892.130 (2) Examining (for files) backup set with nonce=ab8133637e13, datestamp=1523303405 (Apr 09 2018 19:50:05)
+0892.130 (2) This backup set is the backup set just made, so will not be deleted.
+0892.131 (2) This backup set is the backup set just made, so will not be deleted.
+0892.131 (2) This backup set is the backup set just made, so will not be deleted.
+0892.131 (2) This backup set is the backup set just made, so will not be deleted.
+0892.131 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0892.132 (2) Examining (for files) backup set with nonce=b95f2b13139b, datestamp=1523190912 (Apr 08 2018 12:35:12)
+0892.132 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0892.132 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0892.135 (2) Resume backup (ab8133637e13, 2): finish run
+0892.137 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0892.140 (2) The backup apparently succeeded and is now complete
+0892.141 (2) No email will/can be sent - the user has not configured an email address.
+0892.142 (2) La sauvegarde a réussie. Elle est maintenant terminée.

@@ -1,0 +1,36 @@
+# Translation of Plugins - Ocean Demo Import - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ocean Demo Import - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-17 22:48:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ocean Demo Import - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Description of the plugin/theme
+msgid "Import the OceanWP demo content, widgets and customizer settings with one click."
+msgstr "Importez le contenu de démonstration OceanWP, les widgets et les réglages personnalisés en un clic."
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-demo-import/"
+msgstr "https://oceanwp.org/extension/ocean-demo-import/"
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Demo Import"
+msgstr "Ocean Demo Import"
+
+#: ocean-demo-import.php:132 ocean-demo-import.php:141
+msgid "Cheatin&#8217; huh?"
+msgstr "Une fausse manipulation ?"

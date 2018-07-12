@@ -1,0 +1,61 @@
+/*
+Theme Name: OceanWP Child
+Theme URI: https://oceanwp.org/
+Description: OceanWP child theme
+Author: Samurai Dev
+Author URI: https://samurai-dev.fr/
+Template: oceanwp
+Version: 1.0
+Tags: two-columns, right-sidebar, footer-widgets, blog, news, custom-background, custom-menu, post-formats, rtl-language-support, sticky-post, editor-style, threaded-comments, translation-ready, buddypress, custom-colors, featured-images, full-width-template, theme-options, e-commerce
+*/
+
+/*---------------------------------*/
+/*---CONTACT FORM 7 - FORMULAIRE---*/
+/*---------------------------------*/
+
+/*- Modification de l'aspect du formulaire -*/
+.wpcf7-text, .wpcf7-captchar {
+    background-color: #f8f8f8 !important;
+    border: none !important;
+    width: 100% !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+    border-radius: 0 !important;
+    font-size: 20px;
+    color: #333 !important;
+    padding: 16px !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: Open Sans !important
+}
+
+/*- Personnaliser le bouton d'envoi -*/
+.wpcf7-submit {
+    color: #000 !important;
+    margin: 8px auto 0;
+    cursor: pointer;
+    text-transform: Uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 0px;
+    padding: 6px 20px;
+    line-height: 1.7em;
+    background: transparent;
+    border: 2px solid;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+/*- HOVER - Personnaliser le bouton d'envoi -*/
+.wpcf7-submit:hover {
+    background-color: #000;
+    border-color:#000;
+    color: #fff !important;
+    padding: 6px 20px !important;
+}

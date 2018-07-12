@@ -1,0 +1,7 @@
+0000.001 (0) Opened log file at time: Mon, 09 Apr 2018 20:29:58 +0000 on https://omotenashi.samurai-dev.fr
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.9.5 PHP: 7.1.15 (cgi-fcgi, Linux mutu0318 4.1.48-vs2.3.8.6-beng #1 SMP Sun Jan 14 14:33:48 GMT 2018 x86_64) MySQL: 5.5.5 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 63.8M | 68M) multisite: N openssl: OpenSSL 1.1.0f  25 May 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 7759548.6 MB
+0000.011 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.024 (0) Semaphore lock (fd, oei_options) failed (line 43)
+0000.025 (0) Failed to gain semaphore lock (fd) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)
